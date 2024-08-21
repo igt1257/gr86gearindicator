@@ -72,13 +72,13 @@ void loop() {
   // calculate the current gear
   // hall sensors are arranged like this
   //
-  //   A4(U1)         A6(U4)
-  //      1     3     5
-  //      │     │     │
-  //      ├─────┼─────┼─────┼
-  //      │     │     │
-  //      2     4     6     R
-  //   A3(U2)         A5(U3)    A7(U5)
+  //  A7(U5) A4(U1)       A6(U4)
+  //    R     1     3     5
+  //    │     │     │     │
+  //    ┼─────├─────┼─────┼
+  //          │     │     │
+  //          2     4     6     
+  //         A3(U2)       A5(U3)    
   int hall_1_value = analogRead(analogPins[0]);  // read the analog value on pin A4, value will be between 0 - 1023
   int hall_2_value = analogRead(analogPins[1]);  // read the analog value on pin A1, value will be between 0 - 1023
   int hall_3_value = analogRead(analogPins[2]);  // read the analog value on pin A2, value will be between 0 - 1023
