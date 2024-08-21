@@ -2,11 +2,11 @@
 https://paypal.me/igt1257
 <BR>
 
+
+<H1>PARTS LIST</H1>
 Arduino Code & PBC Gerber File & 3D print CASE<BR>
 https://github.com/igt1257/gr86gearindicator
 
-
-<H1>PARTS LIST</H1>
 Arduino Nano<BR>
 https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2332490.m570.l1313&_nkw=arduino+nano&_sacat=0
 
