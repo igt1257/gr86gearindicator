@@ -1,5 +1,5 @@
-<H1>IF YOU LIKE MY PROJECT , YOU CAN BUY ME A COFFEE.</H1>
-<H1>https://paypal.me/igt1257?country.x=TW&locale.x=en_US</H1>
+<H1>IF YOU LIKE MY PROJECT , YOU CAN BUY ME A COFFEE.</H1><BR>
+<H2>https://paypal.me/igt1257?country.x=TW&locale.x=en_US</H2>
 
 
 Arduino Code & PBC Gerber File & 3D print CASE<BR>
