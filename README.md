@@ -1,15 +1,17 @@
-<H1>IF YOU LIKE MY PROJECT , YOU CAN BUY ME A COFFEE.</H1><BR>
+<H1>IF YOU LIKE MY PROJECT , YOU CAN BUY ME A COFFEE.</H1>
 https://paypal.me/igt1257
+<BR>
 
 Arduino Code & PBC Gerber File & 3D print CASE<BR>
 https://github.com/igt1257/gr86gearindicator
 
+
+<H1>PARTS LIST</H1>
 Arduino Nano<BR>
 https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2332490.m570.l1313&_nkw=arduino+nano&_sacat=0
 
 Mini usb calbe<BR>
 https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=mini+usb+calbe&_sacat=0&_odkw=mini+usb+calbe&_osacat=0
-
 
 AH3503 Hall sensor<BR>
 https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=ah3503&_sacat=0&_odkw=mini+usb+calbe&_osacat=0
